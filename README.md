@@ -9,7 +9,7 @@ This is her third year in the SEP program.
 She enjoys coding and using technology.  
 This year, she is hoping to learn new concepts in software engineering. 
 
-Here is my [2016-2017 SEP Portfolio] ()
+Here is my [2016-2017 SEP Portfolio](https://sites.google.com/a/hstat.org/zhiyinl5633sep11/)
 
 **Schedule**  
 
