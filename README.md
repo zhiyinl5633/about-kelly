@@ -14,8 +14,10 @@ Here is my [2016-2017 SEP Portfolio] ()
 **Schedule**  
 1. SEP
  * Room 210 
+  
 2. APUSH
  * Room 404    
+  
 3. Honors English
  * Room 406
 
