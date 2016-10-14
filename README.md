@@ -12,6 +12,7 @@ This year, she is hoping to learn new concepts in software engineering.
 Here is my [2016-2017 SEP Portfolio] ()
 
 **Schedule**  
+
 1. SEP
  * Room 210 
   
