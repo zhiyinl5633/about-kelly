@@ -10,18 +10,26 @@ She enjoys coding and using technology.
 This year, she is hoping to learn new concepts in software engineering.  
 
 **Schedule**  
-1. SEP - 210
+1. SEP
+   * Room 210
 
-2. APUSH - 404
+2. APUSH 
+   * Room 404
 
-3. Honors English - 406
+3. Honors English
+   * Room 406
 
-4. Earth Science - 306
+4. Earth Science
+   * Room 306
 
-5. AP Calculus - 312
+5. AP Calculus
+   * Room 312
 
-6. Spanish - 314
+6. Spanish
+   * Room 314
 
-7. Lunch - Cafe
+7. Lunch
+   * Cafe
 
-8. Gym - Gym 
+8. Physical Education
+   * Gym 
