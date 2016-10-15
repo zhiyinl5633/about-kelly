@@ -7,7 +7,15 @@ zhiyinl5633@hstat.org
 Kelly Lai is currently a junior in HSTAT.   
 This is her third year in the SEP program.   
 She enjoys coding and using technology.  
-This year, she is hoping to learn new concepts in software engineering. 
+This year, she is hoping to learn new concepts in software engineering.  
+
+More Facts about Kelly:
+* Favorite Subject
+  * Math
+* Favorite Music
+  * Kpop
+* Hobbies
+  * Watching Kdramas 
 
 Here is my [2016-2017 SEP Portfolio](https://sites.google.com/a/hstat.org/zhiyinl5633sep11/)
 ---
